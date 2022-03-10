@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://telesoftas.com/">
-  <img src="images/telesoftas.png" alt="Logo" width="80" height="80">
+  <img src="images/telesoftas.png" alt="Logo" width="100" height="80">
   </a>
 
   <h3 align="center">Text-Wrapping Assignment</h3>
@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://telesoftas.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -123,7 +123,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/migellars/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/migellars/TextWrapping/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Michael - [@your_twitter](https://twitter.com/strtDev) - migellars@gmail.com
+Michael - [@strtDev](https://twitter.com/strtDev) - migellars@gmail.com
 
 Project Link: [https://github.com/migellats/TextWrapping](https://github.com/migellars/TextWrapping)
 
@@ -187,15 +187,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/migellars/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/migellars/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/migellars/Best-README-Template.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/migellars/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/migellars/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/migellars/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/migellars/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/migellars/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/migellars/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/migellars
+[linkedin-url]: https://linkedin.com/in/migel1234
 [product-screenshot]: images/screenshot.png
