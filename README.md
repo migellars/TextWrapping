@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://telesoftas.com/">
-  <img src="images/telesoftas.png" alt="Logo" width="100" height="80">
+  <img src="images/telesoftas.png" alt="Logo" >
   </a>
 
   <h3 align="center">Text-Wrapping Assignment</h3>
