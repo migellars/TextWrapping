@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextWrapping", "TextWrapping.csproj", "{E05F7315-73F2-42A2-83F9-B86C41E8E3EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{17CB90ED-F7A3-442B-B566-61CF5446DD95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextWrapping.Test", "..\TextWrapping.Test\TextWrapping.Test.csproj", "{6B770420-11C8-40F8-AD81-F6BB8C50145F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E05F7315-73F2-42A2-83F9-B86C41E8E3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05F7315-73F2-42A2-83F9-B86C41E8E3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05F7315-73F2-42A2-83F9-B86C41E8E3EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17CB90ED-F7A3-442B-B566-61CF5446DD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17CB90ED-F7A3-442B-B566-61CF5446DD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17CB90ED-F7A3-442B-B566-61CF5446DD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17CB90ED-F7A3-442B-B566-61CF5446DD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B770420-11C8-40F8-AD81-F6BB8C50145F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B770420-11C8-40F8-AD81-F6BB8C50145F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B770420-11C8-40F8-AD81-F6BB8C50145F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B770420-11C8-40F8-AD81-F6BB8C50145F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
